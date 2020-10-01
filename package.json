@@ -1,0 +1,38 @@
+{
+  "name": "blub",
+  "version": "1.0.0",
+  "description": "Wee request for assistance",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickBulbeck/blub.git"
+  },
+  "keywords": [
+    "I'm",
+    "an",
+    "imposter",
+    "I'll",
+    "never",
+    "be",
+    "a",
+    "developer",
+    "I'm",
+    "useless",
+    "blah",
+    "blah",
+    "blah"
+  ],
+  "author": "Nick Bulbeck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickBulbeck/blub/issues"
+  },
+  "homepage": "https://github.com/NickBulbeck/blub#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
